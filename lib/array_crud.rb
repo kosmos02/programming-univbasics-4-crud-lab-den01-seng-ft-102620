@@ -6,7 +6,7 @@ end
 
 def create_an_array
   
-  [Ariel, Jasmine, Aurora, Snow White]
+  ['Ariel', 'Jasmine', 'Aurora', 'Snow White']
   
 end
 
